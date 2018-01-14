@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: People
+title: people
 description: Research Group
 sitemap:
     priority: 1.0
