@@ -6,6 +6,13 @@ excerpt: ""
 image: "/images/ozan-burak-ericok.jpeg"
 ---
 
+## Research Interests
+- Radiative heat transfer
+- Computational electromagnetics
+- Inverse Problems
+- Global optimization
+- Bayesian statistics
+
 ## How to Use This Theme
 Just go ahead and read up on [how to install Jekyll](https://jekyllrb.com/). It's not too hard I promise!
 
