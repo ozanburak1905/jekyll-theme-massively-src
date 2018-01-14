@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: people
 title: People
 description: Research Group
 sitemap:
