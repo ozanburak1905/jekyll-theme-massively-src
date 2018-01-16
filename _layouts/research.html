@@ -41,10 +41,11 @@ Jekyll integration by somiibo.com
 	
 	<!-- Post -->
 	<section class="posts">
-      {% if post.category == "member"%}
+
 
 
 	  {% for post in site.posts %}
+      {% if post.category == "member"%}
 	    {% assign mod3 = forloop.index | modulo: 3 %}
 	    <article>
 	      <header>
@@ -65,8 +66,9 @@ Jekyll integration by somiibo.com
 	        </header>
               </article>
 	    {% endif %}-->
+            {% endif %} 
 	  {% endfor %}
-    {% endif %} 
+
         </section>
       </div>
 
