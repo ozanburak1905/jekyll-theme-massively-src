@@ -12,6 +12,9 @@ Teaching Assistant <br>
 MS: Department of Mechanical Engineering, Bogazici University, Istanbul, Turkey, 2017 <br>
 BS: Department of Mechanical Engineering, Bogazici University, Istanbul, Turkey, 2014 <br>
 
+## Thesis Topic
+Optical characterization of Nanoparticle Aggregates
+
 ## Research Interests
 - Radiative heat transfer
 - Computational electromagnetics
