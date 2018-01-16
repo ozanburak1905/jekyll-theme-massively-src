@@ -111,6 +111,24 @@ Jekyll integration by somiibo.com
             {% endif %}
           {% endfor %}
         </section>
+
+	    <section class="posts">
+	      {% for post in site.posts %}
+            {% if post.category == "member_alumni"%}
+	          {% assign mod3 = forloop.index | modulo: 3 %}
+	          <article>
+	            <header>
+		          <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+	            </header>
+	            <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}" width="200" alt="" /></a>
+	            <p>{{ post.excerpt }}</p>
+	            <ul class="actions">
+	              <li><a href="{{ post.url | absolute_url }}" class="button">Bio</a></li>
+	            </ul>
+	          </article>
+            {% endif %}
+          {% endfor %}
+        </section>
       </div>
 
       <!-- Footer -->
