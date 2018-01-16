@@ -4,7 +4,7 @@ title:  "Ozan Burak Eriçok"
 date:   2018-01-14
 excerpt: ""
 image: "/images/ozan-burak-ericok.jpeg"
-categories: member
+category: member
 ---
 
 ## Education
