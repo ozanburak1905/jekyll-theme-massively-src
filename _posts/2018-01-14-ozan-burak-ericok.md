@@ -1,5 +1,5 @@
 ---
-layout: member
+layout: post
 title:  "Ozan Burak Eriçok"
 date:   2018-01-14
 excerpt: ""
