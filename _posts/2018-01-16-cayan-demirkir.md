@@ -8,7 +8,7 @@ image: "/images/cayan-demirkir.jpg"
 
 ## Education
 M.S. Student <br>
-BS: Department of Mechanical Engineering, Istanbul Technical University, Istanbul, Turkey, 2014    <br>
+BS: Department of Mechanical Engineering, Istanbul Technical University, Istanbul, Turkey, 2016    <br>
 
 ## Thesis Topic
 Experimental Nanofluids
