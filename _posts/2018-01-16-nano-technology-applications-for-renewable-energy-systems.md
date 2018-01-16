@@ -2,7 +2,7 @@
 layout: post
 title:  "Nano-technology applications for renewable energy systems"
 date:   2018-01-16
-excerpt: "Huge thanks to HTML5 UP for making this awesome template! Let's see what it can do"
+excerpt: ""
 image: "/images/pic02.jpg"
 category: research_topic
 ---
