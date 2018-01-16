@@ -1,19 +1,18 @@
 <!DOCTYPE HTML>
 <!--
 Massively by HTML5 UP
-.net | @ajlkn
-Jekyll integration by somiibo.com
- for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+html5up.net | @ajlkn
+ Jekyll integration by somiibo.com
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
   <head>
     {% include head.html %}
   </head>
   <body class="is-loading">
-  
-    <!-- Wrapper -->
+
+  <!-- Wrapper -->
     <div id="wrapper" class="fade-in">
-    
     <!-- Header -->
       <header id="header">
         <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
@@ -22,50 +21,59 @@ Jekyll integration by somiibo.com
       <!-- Nav -->
       <nav id="nav">
         {% include nav.html %}
-        <ul class="icons">
+	<ul class="icons">
           <li><a href="https://twitter.com/{{site.twitter}}" class="icon fa-twitter" rel="nofollow"><span class="label">Twitter</span></a></li>
           <li><a href="https://facebook.com/{{site.facebook}}" class="icon fa-facebook" rel="nofollow"><span class="label">Facebook</span></a></li>
           <li><a href="https://instagram.com/{{site.instagram}}" class="icon fa-instagram" rel="nofollow"><span class="label">Instagram</span></a></li>
           <li><a href="https://github.com/{{site.github}}" class="icon fa-github" rel="nofollow"><span class="label">GitHub</span></a></li>
-        </ul>
+	</ul>
       </nav>
-	 
+
       <!-- Main -->
       <div id="main">
-        <article class="post featured">
-          <header class="major">
-            <h2><a href="#">Our Group</a></h2>
-            <p>Our group consists of both undergraduate and graduate students.</p>
-          </header>
-	</article>
-	
-	<!-- Post -->
-	<section class="posts">
-	  {% for post in site.posts %}
-	    {% assign mod3 = forloop.index | modulo: 3 %}
-	    <article>
-	      <header>
-                <!--<span class="date">{{ post.date | date_to_string }}</span>-->
-		<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
-	      </header>
-	      <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}" width="200" alt="" /></a>
-<!--	      <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" width="100" alt="" /></a>-->	      
-	      <p>{{ post.excerpt }}</p>
-	      <ul class="actions">
-	        <li><a href="{{ post.url | absolute_url }}" class="button">Bio</a></li>
-	      </ul>
-	    </article>
-            <!--{% if mod3 == 0 %}
-	      <article>
-	        <header>
-	          <h2><a href="#">Sponsored</h2>
-	        </header>
-              </article>
-	    {% endif %}-->
-	  {% endfor %}
-        </section>
-      </div>
+        <section class="post">
+    	  <header class="major">
+      	    <!--<span class="date">{{page.date | date_to_string}}</span>-->
+      	    <h1>{{page.title}}</h1>
+      	    <p>{{page.excerpt}}</p>
+      	  </header>
+      	  <!--<div class="image main"><img src="{{page.image}}" width="400" alt=""></div>-->
+	  <div align="center"><img src="{{page.image}}" width="400" alt=""></div>
+      	  <p>{{content}}</p>
+      	</section>
 
+        <div class="comments-wrapper">
+          <div id="disqus_thread"></div>
+          <script>
+              /**
+               *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+               *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+               */
+
+              var disqus_config = function () {
+                  this.page.url = '{{ absolute_url }}{{ page.url }}';  /*Replace PAGE_URL with your page's canonical URL variable*/
+                  this.page.identifier = '{{ page.url }}'; /*Replace PAGE_IDENTIFIER with your page's unique identifier variable*/
+              };
+
+              (function() {  /* dont endit below this line */
+                  var d = document, s = d.createElement('script');
+
+                  s.src = 'https://{{ site.disqus_shortname }}.disqus.com/embed.js';
+
+                  s.setAttribute('data-timestamp', +new Date());
+                  (d.head || d.body).appendChild(s);
+              })();
+          </script>
+          <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+        </div><!-- /.comments-wrapper -->
+
+        <!-- Footer -->
+	<footer>
+          <ul class="actions">
+            <li><a href="{{ "/blog/" | absolute_url }}" class="button">Our Blog</a></li>
+          </ul>
+	</footer>
+      </div>
       <!-- Footer -->
       {% include foot.html %}
     </div>

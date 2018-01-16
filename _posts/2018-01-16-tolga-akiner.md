@@ -1,5 +1,5 @@
 ---
-layout: member
+layout: post
 title:  "Tolga Akıner"
 date:   2018-01-16
 excerpt: ""
