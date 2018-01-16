@@ -4,6 +4,7 @@ title:  "Çayan Demirkır"
 date:   2018-01-16
 excerpt: ""
 image: "/images/cayan-demirkir.jpg"
+category: member_ms
 ---
 
 ## Education

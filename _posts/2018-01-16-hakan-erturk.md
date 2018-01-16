@@ -4,6 +4,7 @@ title:  "Hakan Ertürk"
 date:   2018-01-16
 excerpt: ""
 image: "/images/hakan-erturk.jpg"
+category: member_pi
 ---
 
 ## Education

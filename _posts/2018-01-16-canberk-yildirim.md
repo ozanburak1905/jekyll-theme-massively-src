@@ -4,6 +4,7 @@ title:  "Canberk Yıldırım"
 date:   2018-01-16
 excerpt: ""
 image: "/images/canberk-yildirim.jpg"
+category: member_ms
 ---
 
 ## Education

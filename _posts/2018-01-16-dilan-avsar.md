@@ -4,6 +4,7 @@ title:  "Dilan Avşar"
 date:   2018-01-16
 excerpt: ""
 image: "/images/dilan-avsar.jpg"
+category: member_ms
 ---
 
 ## Education

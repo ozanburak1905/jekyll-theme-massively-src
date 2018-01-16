@@ -4,6 +4,7 @@ title:  "Refet Ali Yalçın"
 date:   2018-01-16
 excerpt: ""
 image: "/images/refet-ali-yalcin.jpg"
+category: member_phd
 ---
 
 ## Education

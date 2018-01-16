@@ -4,6 +4,7 @@ title:  "Tolga Akıner"
 date:   2018-01-16
 excerpt: ""
 image: "/images/tolga-akiner.JPG"
+category: member_phd
 ---
 
 ## Education

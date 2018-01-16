@@ -14,7 +14,7 @@ Jekyll integration by somiibo.com
     <!-- Wrapper -->
     <div id="wrapper" class="fade-in">
     
-    <!-- Header -->
+      <!-- Header -->
       <header id="header">
         <a href="{{ "/" | absolute_url }}" class="logo">{{site.title}}</a>
       </header>
@@ -37,32 +37,79 @@ Jekyll integration by somiibo.com
             <h2><a href="#">Our Group</a></h2>
             <p>Our group consists of both undergraduate and graduate students.</p>
           </header>
-	</article>
-	
-	<!-- Post -->
-	<section class="posts">
-	  {% for post in site.posts %}
-	    {% assign mod3 = forloop.index | modulo: 3 %}
-	    <article>
-	      <header>
-                <!--<span class="date">{{ post.date | date_to_string }}</span>-->
-		<h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
-	      </header>
-	      <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}" width="200" alt="" /></a>
-<!--	      <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" width="100" alt="" /></a>-->	      
-	      <p>{{ post.excerpt }}</p>
-	      <ul class="actions">
-	        <li><a href="{{ post.url | absolute_url }}" class="button">Bio</a></li>
-	      </ul>
 	    </article>
-            <!--{% if mod3 == 0 %}
-	      <article>
-	        <header>
-	          <h2><a href="#">Sponsored</h2>
-	        </header>
-              </article>
-	    {% endif %}-->
-	  {% endfor %}
+	
+	    <!-- Post -->
+	    <section class="posts">
+	      {% for post in site.posts %}
+            {% if post.category == "member_pi"%}
+	          {% assign mod3 = forloop.index | modulo: 3 %}
+	          <article>
+	            <header>
+		          <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+	            </header>
+	            <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}" width="200" alt="" /></a>
+	            <p>{{ post.excerpt }}</p>
+	            <ul class="actions">
+	              <li><a href="{{ post.url | absolute_url }}" class="button">Bio</a></li>
+	            </ul>
+	          </article>
+            {% endif %}
+          {% endfor %}
+        </section>
+
+	    <section class="posts">
+	      {% for post in site.posts %}
+            {% if post.category == "member_phd"%}
+	          {% assign mod3 = forloop.index | modulo: 3 %}
+	          <article>
+	            <header>
+		          <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+	            </header>
+	            <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}" width="200" alt="" /></a>
+	            <p>{{ post.excerpt }}</p>
+	            <ul class="actions">
+	              <li><a href="{{ post.url | absolute_url }}" class="button">Bio</a></li>
+	            </ul>
+	          </article>
+            {% endif %}
+          {% endfor %}
+        </section>
+
+	    <section class="posts">
+	      {% for post in site.posts %}
+            {% if post.category == "member_ms"%}
+	          {% assign mod3 = forloop.index | modulo: 3 %}
+	          <article>
+	            <header>
+		          <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+	            </header>
+	            <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}" width="200" alt="" /></a>
+	            <p>{{ post.excerpt }}</p>
+	            <ul class="actions">
+	              <li><a href="{{ post.url | absolute_url }}" class="button">Bio</a></li>
+	            </ul>
+	          </article>
+            {% endif %}
+          {% endfor %}
+        </section>
+
+	    <section class="posts">
+	      {% for post in site.posts %}
+            {% if post.category == "member_bs"%}
+	          {% assign mod3 = forloop.index | modulo: 3 %}
+	          <article>
+	            <header>
+		          <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
+	            </header>
+	            <a href="{{ post.url | absolute_url }}"><img src="{{ post.image | absolute_url }}" width="200" alt="" /></a>
+	            <p>{{ post.excerpt }}</p>
+	            <ul class="actions">
+	              <li><a href="{{ post.url | absolute_url }}" class="button">Bio</a></li>
+	            </ul>
+	          </article>
+            {% endif %}
+          {% endfor %}
         </section>
       </div>
 
