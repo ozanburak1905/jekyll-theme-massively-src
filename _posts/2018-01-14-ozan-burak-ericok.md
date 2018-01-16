@@ -9,8 +9,8 @@ image: "/images/ozan-burak-ericok.jpeg"
 ## Education
 Ph.D. Student <br>
 Teaching Assistant <br>
-BS: Bogazici University, 2014 <br>
-MS: Bogazici University, 2017 <br>
+MS: Department of Mechanical Engineering, Bogazici University, Istanbul, Turkey, 2017 <br>
+BS: Department of Mechanical Engineering, Bogazici University, Istanbul, Turkey, 2014 <br>
 
 ## Research Interests
 - Radiative heat transfer
