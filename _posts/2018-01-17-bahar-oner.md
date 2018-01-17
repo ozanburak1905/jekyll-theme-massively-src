@@ -4,7 +4,7 @@ title:  "Bahar Öner"
 date:   2018-01-17
 excerpt: ""
 image: "/images/bahar-oner.jpg"
-category: member_ms
+category: member_alumni
 ---
 
 ## Education
