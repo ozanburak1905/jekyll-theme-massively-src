@@ -37,7 +37,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
             <p>Blogs are really pretty awesome things. For one, they are a means to continually provide fresh,
                dynamic content to your users. Also, they help your site get indexed and build authority as they are essential for SEO!	</p>
           </header>
-	  <p> Research research research	</p>
+	  <p> Research research research</p>
         </article>
 
 	<!-- Post -->
@@ -46,7 +46,7 @@ Free for personal and commercial use under the CCA 3.0 license (html5up.net/lice
             {% if post.category == "research_topic"%}
 	      <article>
 	        <header>
-	          <span class="date">{{ post.date | date_to_string }}</span>
+	          <!--<span class="date">{{ post.date | date_to_string }}</span>-->
 	          <h2><a href="{{ post.url | absolute_url }}">{{ post.title }}</h2>
 	        </header>
 	        <a href="{{ post.url | absolute_url }}" class="image fit"><img src="{{ post.image | absolute_url }}" alt="" /></a>
