@@ -7,9 +7,6 @@ sitemap:
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## List of Publications
-
-you can [get the PDF]({{ site.url }}/publications/josaa-35-1-88.pdf) directly.
 
 ### Chapters/ Book Sections
 - Hottel H.C., Sarofim A.F., Noble J.J., and Ertürk H., “Radiant Heat Transfer”, eds. AM Sadegh and WM. Worek, Mark’s Handbook, 12th ed., Mc. Graw Hill (in press).
