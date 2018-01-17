@@ -1,7 +1,7 @@
 # Site
 title:              TESLab
-bio:                'asd1'
-description:        "asd2"
+bio:                'TESLab'
+description:        "TESLab"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
@@ -41,9 +41,9 @@ instagram:          default
 github:             default
 
 # personal
-location:           Istanbul, TR
+location:           The Department of Mechanical Engineering, Bogazici University, Istanbul, TR
 phone:              212-359-7539
-email:              info@default.com
+email:              hakan.erturk@boun.edu.tr
 
 # Gems
 gems:
