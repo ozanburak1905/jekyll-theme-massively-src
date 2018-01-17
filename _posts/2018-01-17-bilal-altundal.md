@@ -3,7 +3,7 @@ layout: post
 title:  "Bilal Altundal"
 date:   2018-01-17
 excerpt: ""
-image: "/images/bilal-altundal.jpg"
+image: "/images/bilal-altundal.jpeg"
 category: member_ms
 ---
 

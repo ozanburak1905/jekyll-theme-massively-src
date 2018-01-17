@@ -3,7 +3,7 @@ layout: post
 title:  "Bahar Öner"
 date:   2018-01-17
 excerpt: ""
-image: "/images/bahar-oner.jpg"
+image: "/images/bahar-oner.jpeg"
 category: member_alumni
 ---
 
