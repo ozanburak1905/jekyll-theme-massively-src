@@ -17,14 +17,13 @@ you can [get the PDF]({{ site.url }}/publications/josaa-35-1-88.pdf) directly.
 
 ### Journal Articles
 - Yalcin RA, and Erturk H, 2018, “Inverse Design of Spectrally Selective Thickness Sensitive Pigmented Coatings for Solar Thermal Applications", ASME Transactions on Solar Energy Engineering, accepted, in press. (SCI) 
-- Ericok OB, Cemgil TA, Erturk H, 2018, “Approximate Bayesian Computation Techniques for Optical Characterization of Nanoparticle Clusters” Journal of Optical Society of America –A, vol.35, no.1, pp.88-97. (SCI)
-(link to article)
+- Ericok OB, Cemgil TA, Erturk H, 2018, “Approximate Bayesian Computation Techniques for Optical Characterization of Nanoparticle Clusters” Journal of Optical Society of America –A, vol.35, no.1, pp.88-97. (SCI) [link to article]({{ site.url }}/publications/josaa-35-1-88.pdf)
 - Akiner T, Mason JK, Erturk H, “Thermal Characterization Assessment of Rigid and Flexible Water Models in a Nanogap Using Molecular Dynamics”, Chemical Physics Letters, vol.687, pp.270-275.  (SCI)
 (link to article)
 - Akiner T, Mason JK, Erturk H, 2017, “Nanolayering Around and Thermal Resistivity of the Water Hexagonal Boron Nitride Interface”, Journal of Chemical Physics, vol.147, 044709.  (SCI)
 (link to article)
 - Ericok OB, and Erturk H, "Inverse Characterization of Nanoparticle Clusters using Unpolarized Optical Scattering without Ex-Situ Measurements", Journal of Quantitative Spectroscopy and Radiative Transfer, vol.198, pp.117-129. (SCI)
-(link to article)
+[link to article]({{ site.url }}/publications/jqsrt-198-117.pdf)
 - Kazemi Khosrashahi F, Erturk H, Menguc MP, 2017, "Optimization of Si/SiO2 Based Spectrally Selective Filters for Thermophotovoltaic Devices ", Journal of Quantitative Spectroscopy and Radiative Transfer, vol. 197, pp. 123-131. (SCI)
 (link to article)
 - Talebi Moghaddan S, Avsar D, Erturk H, Menguc MP, 2017, " Effect of Silicon AFM Probe’s Spatial Location on Local Absorption of Gold Nano-Structures Placed on a Dielectric Surface", Journal of Quantitative Spectroscopy and Radiative Transfer, vol. 197, pp. 106-113.  (SCI)
