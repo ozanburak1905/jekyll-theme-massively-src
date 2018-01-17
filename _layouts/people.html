@@ -39,10 +39,9 @@ Jekyll integration by somiibo.com
           </header>
 	    </article>
 	
-	    <!-- Post -->
-
-        <article class="post featured">
-          <h2>Principle Investigator</h2>
+	    <!-- Members -->
+        <div align="center"> <h2>Principle Investigator</h2></div>
+	    <section class="posts">
 	      {% for post in site.posts %}
             {% if post.category == "member_pi"%}
 	          {% assign mod3 = forloop.index | modulo: 3 %}
@@ -58,10 +57,10 @@ Jekyll integration by somiibo.com
 	          </article>
             {% endif %}
           {% endfor %}
-	    </article>
+        </section>
 
 
-        <div align="center"> <h2>Ph.D. Students6</h2></div>
+        <div align="center"> <h2>Ph.D. Students</h2></div>
 	    <section class="posts">
 	      {% for post in site.posts %}
             {% if post.category == "member_phd"%}
@@ -80,7 +79,7 @@ Jekyll integration by somiibo.com
           {% endfor %}
         </section>
 
-
+        <div align="center"> <h2>M.S. Students</h2></div>
 	    <section class="posts">
 	      {% for post in site.posts %}
             {% if post.category == "member_ms"%}
@@ -99,6 +98,7 @@ Jekyll integration by somiibo.com
           {% endfor %}
         </section>
 
+        <div align="center"> <h2>Undergraduate Students</h2></div>
 	    <section class="posts">
 	      {% for post in site.posts %}
             {% if post.category == "member_bs"%}
@@ -117,6 +117,7 @@ Jekyll integration by somiibo.com
           {% endfor %}
         </section>
 
+        <div align="center"> <h2>Alumni</h2></div>
 	    <section class="posts">
 	      {% for post in site.posts %}
             {% if post.category == "member_alumni"%}
