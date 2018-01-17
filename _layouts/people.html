@@ -42,8 +42,7 @@ Jekyll integration by somiibo.com
 	    <!-- Post -->
 
         <article class="post featured">
-          <h2>Principle Investigator2</h2>
-          <!--<span><h2>Principle Investigator</h2></span>-->
+          <h2>Principle Investigator</h2>
 	      {% for post in site.posts %}
             {% if post.category == "member_pi"%}
 	          {% assign mod3 = forloop.index | modulo: 3 %}
@@ -61,7 +60,8 @@ Jekyll integration by somiibo.com
           {% endfor %}
 	    </article>
 
-
+        <article class="post featured">
+          <h2>Ph.D. Students</h2>
 	    <section class="posts">
 	      {% for post in site.posts %}
             {% if post.category == "member_phd"%}
@@ -79,6 +79,7 @@ Jekyll integration by somiibo.com
             {% endif %}
           {% endfor %}
         </section>
+	    </article>
 
 	    <section class="posts">
 	      {% for post in site.posts %}
