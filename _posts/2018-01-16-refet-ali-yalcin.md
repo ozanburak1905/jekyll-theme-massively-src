@@ -14,7 +14,7 @@ MS: Department of Mechanical Engineering, Bogazici University, Istanbul, Turkey,
 BS: Department of Mechanical Engineering, Middle East Technical University, Ankara, Turkey, 2009 <br>
 
 ## Thesis Topic
-Advanced Glass Coating Technologies with Spectral Alteration
+Advanced Coating Technologies with Spectral Alteration
 
 ## Research Interests
 - Radiation heat transfer

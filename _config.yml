@@ -34,16 +34,16 @@ sass:
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
+analytics-id:       ""
+twitter:            buteslab
+facebook:           
+instagram:          
 github:             default
 
 # personal
 location:           The Department of Mechanical Engineering, Bogazici University, Istanbul, TR
-phone:              212-359-7539
-email:              hakan.erturk@boun.edu.tr
+phone:              
+email:              buteslab@gmail.com
 
 # Gems
 gems:
