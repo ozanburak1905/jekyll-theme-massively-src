@@ -9,7 +9,7 @@ category: member_ms
 
 ## Education
 M.S. Student <br>
-Teaching Assistant
+Teaching Assistant <br>
 BS: Department of Mechanical Engineering, Bogazici University, Istanbul, Turkey, 2017    <br>
 
 
