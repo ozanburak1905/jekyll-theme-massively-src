@@ -12,7 +12,10 @@ M.S. Student <br>
 BS: Department of Mechanical Engineering, Yıldız Technical University, Istanbul, Turkey, 2016    <br>
 
 ## Thesis Topic
-
+ANNs for optical characterization of nanoparticle aggregates
 
 ## Research Interests
-
+- Experimental heat transfer
+- Nanofluids
+- Experimental techniques
+- Colloids
