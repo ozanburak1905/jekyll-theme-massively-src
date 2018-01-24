@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "/home/ozan/Desktop/ozanburak1905.github.io/_posts/2018-01-17-bahar-oner.md"
+title:  "Farhad Kazemi"
 date:   2018-01-19
 excerpt: ""
 image: "/images/farhad-kazemi.jpeg"
