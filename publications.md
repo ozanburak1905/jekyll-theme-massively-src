@@ -14,35 +14,52 @@ sitemap:
 
 ### Journal Articles
 - Yalcin RA, and Erturk H, 2018, “Inverse Design of Spectrally Selective Thickness Sensitive Pigmented Coatings for Solar Thermal Applications", ASME Transactions on Solar Energy Engineering, accepted, in press. (SCI) 
-- Ericok OB, Cemgil TA, Erturk H, 2018, “Approximate Bayesian Computation Techniques for Optical Characterization of Nanoparticle Clusters” Journal of Optical Society of America –A, vol.35, no.1, pp.88-97. (SCI) [(link to article)](https://drive.google.com/file/d/1SMD383-kRYw0Mun8hYYHPGDF62yYIb2A/view)
+
+- Ericok OB, Cemgil TA, Erturk H, 2018, “Approximate Bayesian Computation Techniques for Optical Characterization of Nanoparticle Clusters” Journal of Optical Society of America –A, vol.35, no.1, pp.88-97. (SCI) 
+[(link to article)](https://drive.google.com/file/d/1SMD383-kRYw0Mun8hYYHPGDF62yYIb2A/view)
+
 - Akiner T, Mason JK, Erturk H, “Thermal Characterization Assessment of Rigid and Flexible Water Models in a Nanogap Using Molecular Dynamics”, Chemical Physics Letters, vol.687, pp.270-275.  (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidV21hWDg4M2ljQUU/view)
+
 - Akiner T, Mason JK, Erturk H, 2017, “Nanolayering Around and Thermal Resistivity of the Water Hexagonal Boron Nitride Interface”, Journal of Chemical Physics, vol.147, 044709.  (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidRkhKQVR4RnBiRFE/view)
+
 - Ericok OB, and Erturk H, "Inverse Characterization of Nanoparticle Clusters using Unpolarized Optical Scattering without Ex-Situ Measurements", Journal of Quantitative Spectroscopy and Radiative Transfer, vol.198, pp.117-129. (SCI)
-[link to article]({{ site.url }}/publications/jqsrt-198-117.pdf)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDideWZXSlFsZnF3VW8/view)
+
 - Kazemi Khosrashahi F, Erturk H, Menguc MP, 2017, "Optimization of Si/SiO2 Based Spectrally Selective Filters for Thermophotovoltaic Devices ", Journal of Quantitative Spectroscopy and Radiative Transfer, vol. 197, pp. 123-131. (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidOHVtbWJ3Q3RFa1E/view)
+
 - Talebi Moghaddan S, Avsar D, Erturk H, Menguc MP, 2017, " Effect of Silicon AFM Probe’s Spatial Location on Local Absorption of Gold Nano-Structures Placed on a Dielectric Surface", Journal of Quantitative Spectroscopy and Radiative Transfer, vol. 197, pp. 106-113.  (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidTDR5UU8zYWdOMDQ/view)
+
 - Ilhan B, Erturk H, 2017, “Experimental Characterization of Laminar Forced Convection of hBN Water Nanofluid in a Circular Tube”, International Journal of Heat and Mass Transfer, vol. 111, pp.500-507.  (SCI) 
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidT2RrWFFvQ0hTbDQ/view)
+
 - Akiner T, Mason JK, Erturk H, 2016, “A New Interlayer Potential For Hexagonal Boron Nitride”, Journal of Physics: Condensed Matter, vol.28, 385401.  (SCI) 
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidRXNQNUc4SUI3ZXM/view)
+
 - Ilhan B, Kurt M, Erturk H, 2016, “Experimental Investigation of Heat Transfer Enhancement and Viscosity Increase of hBN Nanofluids”, Experimental Thermal and Fluid Sciences, vol.77, pp.272-283.  (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidUmlkOFNjWXZGdk0/view)
+
 - Talebi Moghaddan S, Erturk H, Menguc MP, 2016, “Enhancing Local Absorption Patterns within Gold Nano-Structures on a Dielectric Surface under an AFM Probe and with Evanescent-Wave Illumination”, Journal of Quantitative Spectroscopy and Radiative Transfer, vol.178, pp.124-133.  (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidWWhtWXY0aFpwMms/view)
+
 - Heshmati F, Erturk H, 2016, “Single Phase Models for Improved Estimation of Friction Factor for Laminar Nanofluid Flow in Pipes”, International Journal of Heat and Mass Transfer, vol.95C, pp. 416-425. (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidZFo0Z1F3MzJlazQ/view)
+
 - Goktepe S, Atalik K, Erturk H, 2014, “Comparison of Single and Two-Phase Models for Nanofluid Convection at the Entrance of a Uniformly Heated Tube”, International Journal of Thermal Sciences, vol.80, no.1, pp.83-92. (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidTkp1OWJTMHZtTXM/view)
+
 - Erturk, H., 2011, “Evaluation Of Image Reconstruction Algorithms For Non-Destructive Characterization Of Thermal Interfaces”, International Journal of Thermal Sciences, vol.50, no.6, pp.906-917.  (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidLWd3UWVQcTI0MUk/view)
+
 - Erturk, H. and Howell, J. R., 2010, “Efficient Signal Transport Model for Remote Thermometry in Full Scale Systems”, IEEE Transactions on Semiconductor Manufacturing, vol.23, no.1., pp.132-140.  (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidemlOS2lxYldZaVU/view)
+
 - Erturk, H., Gamba, M., Ezekoye, O.A., and Howell, J.R., 2008, “Validation of Inverse Boundary Condition Design in a Thermometry Test Bed”, Journal of Quantitative Spectroscopy and Radiative Transfer, vol. 109, pp.317-326. (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidcHBmd0dYQzduVWc/view)
+
 - Sauciuc, I., Erturk, H., Sahasrabudhe, S.H., Girouard, S., Bosak, H.C., Ahuja, S., Chrysler, G.M., Leija, J., 2006, “Future CPU Cooling Building Blocks: Performance and Challenges”, Intel Assembly Test and Technology Journal, vol.9, pp.31-42.
 - Sauciuc, I., Chang, J-Y, Chau, D., Chrysler, G., Prasher, R., Erturk, H., 2004, “Novel Thermal Technologies for CPU Cooling Applications”, Intel Assembly Test and Technology Journal, vol. 7, pp. 63-71.
 - Erturk, H., Ezekoye, O. A., and Howell, J. R., 2004, “Boundary Condition Design to Heat a Moving Object at Uniform Transient Temperature”, ASME Journal Manufacturing Science and Engineering, vol. 126, pp.619-626. (SCI)
