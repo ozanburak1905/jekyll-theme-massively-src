@@ -10,11 +10,11 @@ sitemap:
 
 ### Chapters/ Book Sections
 - Hottel H.C., Sarofim A.F., Noble J.J., and Ertürk H., “Radiant Heat Transfer”, eds. AM Sadegh and WM. Worek, Mark’s Handbook, 12th ed., Mc. Graw Hill (in press).
-- Erturk H and Howell JR, “The Monte Carlo method for Radiative Heat Transfer”, Handbook of Thermal Sciences and Engineering, ed. F. Kulacki, Springer. [link to chapter](https://link.springer.com/referenceworkentry/10.1007/978-3-319-32003-8_57-1)
+- Erturk H and Howell JR, “The Monte Carlo method for Radiative Heat Transfer”, Handbook of Thermal Sciences and Engineering, ed. F. Kulacki, Springer. [(link to chapter)](https://link.springer.com/referenceworkentry/10.1007/978-3-319-32003-8_57-1)
 
 ### Journal Articles
 - Yalcin RA, and Erturk H, 2018, “Inverse Design of Spectrally Selective Thickness Sensitive Pigmented Coatings for Solar Thermal Applications", ASME Transactions on Solar Energy Engineering, accepted, in press. (SCI) 
-- Ericok OB, Cemgil TA, Erturk H, 2018, “Approximate Bayesian Computation Techniques for Optical Characterization of Nanoparticle Clusters” Journal of Optical Society of America –A, vol.35, no.1, pp.88-97. (SCI) [link to article]({{ site.url }}/publications/josaa-35-1-88.pdf)
+- Ericok OB, Cemgil TA, Erturk H, 2018, “Approximate Bayesian Computation Techniques for Optical Characterization of Nanoparticle Clusters” Journal of Optical Society of America –A, vol.35, no.1, pp.88-97. (SCI) [(link to article)](https://drive.google.com/file/d/1SMD383-kRYw0Mun8hYYHPGDF62yYIb2A/view)
 - Akiner T, Mason JK, Erturk H, “Thermal Characterization Assessment of Rigid and Flexible Water Models in a Nanogap Using Molecular Dynamics”, Chemical Physics Letters, vol.687, pp.270-275.  (SCI)
 (link to article)
 - Akiner T, Mason JK, Erturk H, 2017, “Nanolayering Around and Thermal Resistivity of the Water Hexagonal Boron Nitride Interface”, Journal of Chemical Physics, vol.147, 044709.  (SCI)
