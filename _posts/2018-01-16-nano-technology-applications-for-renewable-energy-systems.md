@@ -3,7 +3,7 @@ layout: post
 title:  "Nano-technology applications for renewable energy systems"
 date:   2018-01-16
 excerpt: ""
-image: "/images/pic02.jpg"
+image: "/images/nanotech.png"
 category: research_topic
 ---
 
