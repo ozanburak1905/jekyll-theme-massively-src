@@ -3,7 +3,7 @@ layout: post
 title:  "Nanofluids"
 date:   2018-01-16
 excerpt: ""
-image: "/images/pic02.jpg"
+image: "/images/nanofluids.png"
 category: research_topic
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title:  "Radiative Heat Transfer and Inverse problems in optical, thermal and energy systems"
 date:   2018-01-16
 excerpt: ""
-image: "/images/pic02.jpg"
+image: "/images/inverse-problems.png"
 category: research_topic
 ---
 
