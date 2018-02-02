@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Research and Thesis topics for Graduate Students:"
+title:  "Research and Thesis topics for Graduate Students"
 date:   2018-01-16
 excerpt: ""
-image: "/images/pic02.jpg"
+image: "/images/research-topics.jpeg"
 category: research_topic
 ---
 
