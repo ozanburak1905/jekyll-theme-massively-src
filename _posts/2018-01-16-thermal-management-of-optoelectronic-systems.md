@@ -3,7 +3,7 @@ layout: post
 title:  "Thermal management of opto/electronic systems"
 date:   2018-01-16
 excerpt: ""
-image: "/images/pic02.jpg"
+image: "/images/thermal-management-optoelectronic-systems.png"
 category: research_topic
 ---
 
