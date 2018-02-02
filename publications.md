@@ -10,7 +10,7 @@ sitemap:
 
 ### Chapters/ Book Sections
 - Hottel H.C., Sarofim A.F., Noble J.J., and Ertürk H., “Radiant Heat Transfer”, eds. AM Sadegh and WM. Worek, Mark’s Handbook, 12th ed., Mc. Graw Hill (in press).
--  Erturk H and Howell JR, “The Monte Carlo method for Radiative Heat Transfer”, Handbook of Thermal Sciences and Engineering, ed. F. Kulacki, Springer.
+- Erturk H and Howell JR, “The Monte Carlo method for Radiative Heat Transfer”, Handbook of Thermal Sciences and Engineering, ed. F. Kulacki, Springer. [link to chapter](https://link.springer.com/referenceworkentry/10.1007/978-3-319-32003-8_57-1)
 
 ### Journal Articles
 - Yalcin RA, and Erturk H, 2018, “Inverse Design of Spectrally Selective Thickness Sensitive Pigmented Coatings for Solar Thermal Applications", ASME Transactions on Solar Energy Engineering, accepted, in press. (SCI) 
