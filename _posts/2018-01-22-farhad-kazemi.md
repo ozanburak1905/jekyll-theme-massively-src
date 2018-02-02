@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Farhad Kazemi"
-date:   2018-01-19
+date:   2018-01-22
 excerpt: ""
 image: "/images/farhad-kazemi.jpg"
 category: member_alumni

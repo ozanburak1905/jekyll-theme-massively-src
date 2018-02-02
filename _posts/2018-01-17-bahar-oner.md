@@ -9,8 +9,8 @@ category: member_alumni
 
 ## Education
 M.S. Student <br>
-BS: Department of Mechanical Engineering, Middle East Technical University, Ankara, Turkey, 2013    <br>
 MS: Department of Mechanical Engineering, Bogazici University, Istanbul, Turkey, 2016    <br>
+BS: Department of Mechanical Engineering, Middle East Technical University, Ankara, Turkey, 2013    <br>
 Currently a PhD student in University of Bristol, UK <br>
 
 ## Thesis Topic
