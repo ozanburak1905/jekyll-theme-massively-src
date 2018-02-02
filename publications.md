@@ -10,10 +10,10 @@ sitemap:
 
 ### Overview
 You can click on the links to access the documents or request a copy via email. 
-[(Google Scholar)](https://scholar.google.com/citations?user=0bWMg2kAAAAJ)
-[(ResearcherID page)](http://www.researcherid.com/rid/C-1238-2008)
-[(Mendeley page)](https://www.mendeley.com/profiles/hakan-erturk2/)
-[(Researchgate)](https://www.researchgate.net/profile/Hakan_Erturk2)
+- [(Google Scholar)](https://scholar.google.com/citations?user=0bWMg2kAAAAJ)
+- [(ResearcherID page)](http://www.researcherid.com/rid/C-1238-2008)
+- [(Mendeley page)](https://www.mendeley.com/profiles/hakan-erturk2/)
+- [(Researchgate)](https://www.researchgate.net/profile/Hakan_Erturk2)
 
 ### Chapters/ Book Sections
 - Hottel H.C., Sarofim A.F., Noble J.J., and Ertürk H., “Radiant Heat Transfer”, eds. AM Sadegh and WM. Worek, Mark’s Handbook, 12th ed., Mc. Graw Hill (in press).
