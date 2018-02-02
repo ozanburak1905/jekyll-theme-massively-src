@@ -8,6 +8,7 @@ category: member_alumni
 ---
 
 ## Education
+M.S. Student <br>
 MS: Department of Mechanical Engineering, Bogazici University, Istanbul, Turkey, 2016    <br>
 BS: Department of Mechanical Engineering, University of Tabriz, Tabriz, Iran, 2013    <br>
 Currently a PhD student in University of Waterloo, Canada <br>
