@@ -8,6 +8,13 @@ sitemap:
     changefreq: weekly
 ---
 
+### Overview
+You can click on the links to access the documents or request a copy via email. 
+[(Google Scholar)](https://scholar.google.com/citations?user=0bWMg2kAAAAJ)
+[(ResearcherID page)](http://www.researcherid.com/rid/C-1238-2008)
+[(Mendeley page)](https://www.mendeley.com/profiles/hakan-erturk2/)
+[(Researchgate)](https://www.researchgate.net/profile/Hakan_Erturk2)
+
 ### Chapters/ Book Sections
 - Hottel H.C., Sarofim A.F., Noble J.J., and Ertürk H., “Radiant Heat Transfer”, eds. AM Sadegh and WM. Worek, Mark’s Handbook, 12th ed., Mc. Graw Hill (in press).
 
@@ -203,7 +210,7 @@ sitemap:
 - Sauciuc, I., Erturk, H., Chrysler, G., Mahajan, R., Ikeda, M., Kimura, Y., Noda, H., Nakamura, T., 2004, “Integration of Thermoelectric and Phase Change Devices with Application to CPU Cooling”, IMAPS Advanced Technology Workshop on Thermal Management, Palo Alto, CA.
 
  
-### Miscellaneous:
+### Miscellaneous
 - Erturk, H., 2002, “Inverse Design and Control of Thermal Systems”, Ph.D. Dissertation, the University of Texas at Austin, Austin, TX, USA.
 
 - Howell, J. R., Daun, K. J. and Erturk, H., 2001, An Annotated Bibliography of Thermal Radiation Validation Data for Fire Applications, Technical Report, Sandia National Laboratories, Albuequerque, NM.
@@ -214,9 +221,7 @@ sitemap:
 - Erturk, H., 1997, “Mathematical Modeling of Radiative Transfer in Participating Media”, M.S. Thesis, Middle East Technical University, Ankara, Turkey.
 
  
-
- 
-### Work in Progress/ Patent Applications:
+### Work in Progress/ Patent Applications
 - Erturk, H., Sauciuc, I., “Piezoelectric Fan, Method of Cooling a Microelectronic Device Using Same, and System Containing Same”, US Patent pending (application publication no. US20100047092-A1).
 (US application)
 
