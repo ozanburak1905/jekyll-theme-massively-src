@@ -81,16 +81,33 @@ sitemap:
 [(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidb3NTUHppUE9ETlU/view)
 
 ### Patents
-- Z. Li, C.-C. Hsieh, J. Hu, H. Erturk, and G. Chen, “Microfins for Cooling an Ultramobile Device”, US Patent No. US8482922. [(patent)](https://drive.google.com/file/d/0B1x_zKlyTDidb3NTUHppUE9ETlU/view)
+- Z. Li, C.-C. Hsieh, J. Hu, H. Erturk, and G. Chen, “Microfins for Cooling an Ultramobile Device”, US Patent No. US8482922. 
+[(patent)](https://drive.google.com/file/d/0B1x_zKlyTDidUGZFMldabzBNbEU/view)
 
-- Z. Li, C.-C. Hsieh, J. Hu, H. Erturk, and G. Chen, “Microfins for Cooling an Ultramobile Device”, US Patent No. US8054629. (patent)
-- Erturk, H., Sauciuc, I., “Piezoelectric Fan, Method of Cooling a Microelectronic Device Using Same, and System Containing Same”, US Patent application no. US2009026881-A1; Korean Patent No. KR1004161-B1; Chinese Patent application no. CN101354045-A. (US application)
-- Sauciuc, I., Chrysler, G.M., Erturk, H., 2009, “Piezoelectric Air Jet Augmented Cooling for Electronic Devices”, US Patent No. US7633753; Korean Patent No. KR1031487-B1; Chinese Patent No. CN101516173-B. (patent)
-- Erturk, H., Chrysler, G.M., Sauciuc, I., 2008, “Method and System to Cool Memory”, US Patent No. US7457116 (patent)
-- Erturk, H., Sauciuc, I., 2008, “Heat Dissipating Device with Enhanced Boiling/Condensation Structure”, US Patent No. US7353860; Taiwanese Patent No. TW293018-B1; International Patent No. WO2006007163; Korean Patent No. KR2007017205-A; Chinese Patent No. CN1969382-B; German Patent Nos. DE112005001365-T5, DE112005001365-B4. (patent, application in WIPO).
-- Erturk, H., Sauciuc, I., 2008, “Heat Dissipating Device with Enhanced Boiling/Condensation Structure”, US Patent No. US7327572. (patent)
-- Erturk, H., Sauciuc I., 2007, “Cooling Integrated Circuits Using a Cold Plate with Two Phase Thin Film Evaporation”, US Patent No. US7265979. (patent)
-- Erturk H., Sauciuc I., Unrein, E. J., 2005, “An Apparatus and Method for Cooling Integrated Circuit Devices”, US Patent No. US6917522. (patent)
+- Z. Li, C.-C. Hsieh, J. Hu, H. Erturk, and G. Chen, “Microfins for Cooling an Ultramobile Device”, US Patent No. US8054629. 
+[(patent)](https://drive.google.com/file/d/0B1x_zKlyTDidNWRIdDhGQ3QyMlk/view)
+
+- Erturk, H., Sauciuc, I., “Piezoelectric Fan, Method of Cooling a Microelectronic Device Using Same, and System Containing Same”, US Patent application no. US2009026881-A1; Korean Patent No. KR1004161-B1; Chinese Patent application no. CN101354045-A. 
+(US application)
+
+- Sauciuc, I., Chrysler, G.M., Erturk, H., 2009, “Piezoelectric Air Jet Augmented Cooling for Electronic Devices”, US Patent No. US7633753; Korean Patent No. KR1031487-B1; Chinese Patent No. CN101516173-B. 
+[(patent)](https://drive.google.com/file/d/0B1x_zKlyTDidbU9QQVhYSE04MUU/view)
+
+- Erturk, H., Chrysler, G.M., Sauciuc, I., 2008, “Method and System to Cool Memory”, US Patent No. US7457116 
+[(patent)](https://drive.google.com/file/d/0B1x_zKlyTDidMC1qYkFNbW9jTzA/view)
+
+- Erturk, H., Sauciuc, I., 2008, “Heat Dissipating Device with Enhanced Boiling/Condensation Structure”, US Patent No. US7353860; Taiwanese Patent No. TW293018-B1; International Patent No. WO2006007163; Korean Patent No. KR2007017205-A; Chinese Patent No. CN1969382-B; German Patent Nos. DE112005001365-T5, DE112005001365-B4. 
+[(patent)](https://drive.google.com/file/d/0B1x_zKlyTDidRzJSWVpJZXhIUFU/view) 
+[(application in WIPO)](https://drive.google.com/file/d/0B1x_zKlyTDidYkpSempzYjh6dmc/view)
+
+- Erturk, H., Sauciuc, I., 2008, “Heat Dissipating Device with Enhanced Boiling/Condensation Structure”, US Patent No. US7327572. 
+[(patent)](https://drive.google.com/file/d/0B1x_zKlyTDidSjBfYlFMSHpSRXM/view)
+
+- Erturk, H., Sauciuc I., 2007, “Cooling Integrated Circuits Using a Cold Plate with Two Phase Thin Film Evaporation”, US Patent No. US7265979. 
+[(patent)](https://drive.google.com/file/d/0B1x_zKlyTDidUjlveVJadk5laTg/view)
+
+- Erturk H., Sauciuc I., Unrein, E. J., 2005, “An Apparatus and Method for Cooling Integrated Circuit Devices”, US Patent No. US6917522. 
+[(patent)](https://drive.google.com/file/d/0B1x_zKlyTDidY256WUlfMFI1LXM/view)
 
 
 ### Conference Proceedings (peer reviewed)
