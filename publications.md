@@ -10,6 +10,7 @@ sitemap:
 
 ### Chapters/ Book Sections
 - Hottel H.C., Sarofim A.F., Noble J.J., and Ertürk H., “Radiant Heat Transfer”, eds. AM Sadegh and WM. Worek, Mark’s Handbook, 12th ed., Mc. Graw Hill (in press).
+
 - Erturk H and Howell JR, “The Monte Carlo method for Radiative Heat Transfer”, Handbook of Thermal Sciences and Engineering, ed. F. Kulacki, Springer. [(link to chapter)](https://link.springer.com/referenceworkentry/10.1007/978-3-319-32003-8_57-1)
 
 ### Journal Articles
@@ -61,20 +62,27 @@ sitemap:
 [(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidcHBmd0dYQzduVWc/view)
 
 - Sauciuc, I., Erturk, H., Sahasrabudhe, S.H., Girouard, S., Bosak, H.C., Ahuja, S., Chrysler, G.M., Leija, J., 2006, “Future CPU Cooling Building Blocks: Performance and Challenges”, Intel Assembly Test and Technology Journal, vol.9, pp.31-42.
+
 - Sauciuc, I., Chang, J-Y, Chau, D., Chrysler, G., Prasher, R., Erturk, H., 2004, “Novel Thermal Technologies for CPU Cooling Applications”, Intel Assembly Test and Technology Journal, vol. 7, pp. 63-71.
+
 - Erturk, H., Ezekoye, O. A., and Howell, J. R., 2004, “Boundary Condition Design to Heat a Moving Object at Uniform Transient Temperature”, ASME Journal Manufacturing Science and Engineering, vol. 126, pp.619-626. (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidX2pWeHlYYWlKemc/view)
+
 - Howell, J. R., Daun, K. J., Erturk, H., Gamba, M. and Hosseini Sarvari, M., 2003, “The Use of Inverse Methods for the Design and Control of Radiant Sources”, JSME International Journal, Series B, Fluid and Thermal Engineering, vol. 46, pp.470-478. (SCI-E) (invited paper)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidUk5RcHRnN1lhYW8/view)
+
 - Daun, K. J., Erturk, H. and Howell, J. R., 2002, “Inverse Methods for High Temperature Systems”, Arabian Journal for Science and Engineering, vol. 27, no 2C, pp. 3-48.  (SCI-E) (invited paper)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidTWQ5VmtCb3dCSHc/view)
+
 - Erturk, H., Ezekoye, O. A., and Howell, J. R., 2002, “The Application of An Inverse Formulation In The Design of Boundary Conditions for Transient Radiating Enclosures”, ASME Journal of Heat Transfer, vol.124, pp. 1095-1102. (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidRWY4bGt1UGpHb0E/view)
+
 - Erturk, H., Ezekoye, O. A., and Howell, J. R., 2002, “Comparison of Three Regularized Solution Techniques in a Three-Dimensional Inverse Radiation Problem”, Journal of Quantitative Spectroscopy and Radiative Transfer, vol.73, pp. 307-316. (SCI)
-(link to article)
+[(link to article)](https://drive.google.com/file/d/0B1x_zKlyTDidb3NTUHppUE9ETlU/view)
 
 ### Patents
-- Z. Li, C.-C. Hsieh, J. Hu, H. Erturk, and G. Chen, “Microfins for Cooling an Ultramobile Device”, US Patent No. US8482922. (patent)
+- Z. Li, C.-C. Hsieh, J. Hu, H. Erturk, and G. Chen, “Microfins for Cooling an Ultramobile Device”, US Patent No. US8482922. [(patent)](https://drive.google.com/file/d/0B1x_zKlyTDidb3NTUHppUE9ETlU/view)
+
 - Z. Li, C.-C. Hsieh, J. Hu, H. Erturk, and G. Chen, “Microfins for Cooling an Ultramobile Device”, US Patent No. US8054629. (patent)
 - Erturk, H., Sauciuc, I., “Piezoelectric Fan, Method of Cooling a Microelectronic Device Using Same, and System Containing Same”, US Patent application no. US2009026881-A1; Korean Patent No. KR1004161-B1; Chinese Patent application no. CN101354045-A. (US application)
 - Sauciuc, I., Chrysler, G.M., Erturk, H., 2009, “Piezoelectric Air Jet Augmented Cooling for Electronic Devices”, US Patent No. US7633753; Korean Patent No. KR1031487-B1; Chinese Patent No. CN101516173-B. (patent)
