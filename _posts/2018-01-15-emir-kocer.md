@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Emir Koçer"
-date:   2018-01-18
+date:   2018-01-15
 excerpt: ""
 image: "/images/emir-kocer.jpg"
 category: member_ms
